@@ -1,0 +1,11 @@
+ul,li{
+    list-style-type: none;
+    padding: 0rem;
+    color: rgb(90, 90, 90);
+}
+
+li:hover{
+    transition: 0.3s;
+    color: black;
+    cursor: pointer;
+}
